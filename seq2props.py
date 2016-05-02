@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python gen_next_level_data.py
+THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python seq2props.py
 '''
 
 import numpy
