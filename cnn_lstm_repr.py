@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python seq_cnn.py
+# THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python cnn_lstm_repr.py
 
 import numpy as np
 import utils
